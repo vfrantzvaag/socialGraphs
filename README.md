@@ -5,6 +5,8 @@ This repository contains the work of Kiriakos Tsalkitzidis s202669@student.dtu.d
 
 The repository contains our solution to the final project - the result can be seen at http://socialpokemon.dk/.
 
+If you want to download the whole project as a .zip press this link: https://github.com/vfrantzvaag/socialGraphs/archive/refs/heads/main.zip otherwise, clone the repo if you've done this before.
+
 Final project description
 --------------------
 The primary purpose of this repository is to host our work on the final project. 
