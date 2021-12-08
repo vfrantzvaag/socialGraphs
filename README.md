@@ -8,7 +8,6 @@ The repository contains our solution to the final project - the result can be se
 If you want to download the whole project as a .zip press this link: https://github.com/vfrantzvaag/socialGraphs/archive/refs/heads/main.zip otherwise, clone the repo if you've done this before.
 
 Final project description
---------------------
-The primary purpose of this repository is to host our work on the final project. 
+-------------------- 
 In the final project we looked into how we could analyze the Pokémon universe using different data science techniques, like networking and NLP.
 The [Explainer Notebook](https://github.com/vfrantzvaag/socialGraphs/blob/main/explanatoryNotebook.ipynb) as well as the website http://socialpokemon.dk/ explains in greater details the purpose of the project.
